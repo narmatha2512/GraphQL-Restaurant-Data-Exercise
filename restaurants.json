@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "The Spice Garden",
+    "description": "Authentic Indian cuisine with a modern twist, featuring aromatic spices and rich flavors.",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "address": "12 Marina Beach Road, Chennai, Tamil Nadu"
+  },
+  {
+    "id": "2",
+    "name": "Bella Italia",
+    "description": "A classic Italian trattoria serving handmade pasta, wood-fired pizzas, and fine wines.",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "address": "45 Church Street, Bangalore, Karnataka"
+  },
+  {
+    "id": "3",
+    "name": "Dragon Palace",
+    "description": "Exquisite Chinese and Pan-Asian dishes prepared by award-winning chefs.",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "address": "78 Connaught Place, New Delhi"
+  },
+  {
+    "id": "5",
+    "name": "Taco Fiesta",
+    "description": "Vibrant Mexican street food with bold flavors, fresh ingredients, and handcrafted margaritas.",
+    "cuisine": "Mexican",
+    "rating": 4.2,
+    "address": "9 Indiranagar, Bangalore, Karnataka"
+  },
+  {
+    "id": "muxn61sfo7srz",
+    "name": "The Spice Garden",
+    "description": "",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "address": "12 Marina Beach Road, Chennai, Tamil Nadu"
+  }
+]
